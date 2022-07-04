@@ -1,0 +1,9 @@
+{
+	"name": "FactoryMokrani",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "97be8d38-21f1-4752-b713-106a1b9c7e49",
+		"tenantId": "10fc5f12-7762-489e-84f5-29c0b862751b"
+	}
+}
